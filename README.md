@@ -1,6 +1,7 @@
-# daily_re
+# daily_reminder
+给女朋友做的微信天气推送
 
-
+教程链接
 
 https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shareUid=3198334&shareFrom=com.coolapk.app_4.10
 
@@ -23,15 +24,14 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 ❤
-今天记得要乖乖喝水哟❤
+今天是我们恋爱的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} ❤
-{{birthday2.DATA}}❤
+{{birthday1.DATA}} 
+{{birthday2.DATA}}
 
 
-{{note_en.DATA}} ❤
-{{note_ch.DATA}}❤
+{{note_en.DATA}} 
+{{note_ch.DATA}}
 
 
 天气key生成教程
